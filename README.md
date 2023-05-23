@@ -48,17 +48,11 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/c8e9dee6-6f64-4563-bed0-ee3223669c6c)
-
-![image](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/3bddbe30-f258-41c4-89e7-f3bd18c55e2b)
-
-![image](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/174fef07-6efc-4cf3-91a3-6bec5abc9f19)
-
-![image](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/1f8a3db5-c4fd-467a-b3eb-2038f234df99)
-
-![image](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/43e10b60-b654-4092-bd6a-ed6b9480255d)
-
-
+![238123467-3b394ffa-4aea-4e56-a12b-eccab47afee5](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/915c21d5-6064-4c1d-a249-ed72f406483d)
+![238123564-cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/33f30afb-d8bf-4d33-a64c-6f05cad07111)
+![238123836-803397cb-5685-4bc2-82c2-6b1d1e3a2eec](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/2329746b-6742-419e-83b9-75581b672db3)
+![238123899-45ac4da8-f236-4e23-b0ce-a77aac6ac8b0](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/fece3a92-43c3-4f64-b877-0dd1841e0bd1)
+![238123950-e00b82b4-9aff-400f-9c57-288254dc3cd2](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/8ccb33e5-d44d-474b-a54b-135437d413e3)
 
 ## Output:
 ![image](https://github.com/sujigunasekar/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559822/c280b40e-d85d-4857-8498-43a64b0e61ca)
